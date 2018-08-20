@@ -1,0 +1,7 @@
+name: Decomposition
+main: cc.zoyn.decomposition.Decomposition
+version: 1.0
+author: Zoyn
+commands:
+  fadmin:
+  fj:

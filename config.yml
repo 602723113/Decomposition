@@ -1,0 +1,7 @@
+tips:
+  create-lore-success: "&c[系统] &a成功创建分解字符 %lore% 输入/fadmin setitem来设置该分解的结果"
+  pre-set-item: "&c[系统] &a请放入分解字符 %lore% 的分解后物品, 关闭后自动保存!"
+  set-item-done: "&c[系统] &a你已经成功的设置了分解字符 %lore% 的分解得到的物品!"
+  lore-is-empty: "&c[系统] &a分解库存什么也没有!"
+  the-weapon-cant-decompose: "&c[系统] &a该装备无法分解!"
+  decompositiongui-close: "&c[系统] &a分解装备窗口已被关闭, 物品已返回至你的背包中!"
